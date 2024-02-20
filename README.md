@@ -10,7 +10,6 @@ path: config.php/app.php
        ... 
     ])->toArray(),
     
-
 step 3: run this command 
 php artisan vendor:publish --tag=public
 
