@@ -1,0 +1,13 @@
+{
+    "name": "countrycodevendor/countrycode",
+    "description": "A composer package for get a code from country",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Countrycodevendor\\Countrycode\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
