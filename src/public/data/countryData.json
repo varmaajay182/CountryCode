@@ -1,0 +1,11 @@
+[
+    {"country":"India","phoneNumberMaxLength":10,"phoneNumberMinLength":7,"phoneNumberLengthByCountry_phLength":"7 to 10","countryCode":91,"InterNationalPrefix":0,"NationalPrefix":0,"flag":"vendor/countrycode/flags/india.png"},
+    {"country":"China","phoneNumberMaxLength":12,"phoneNumberMinLength":5,"phoneNumberLengthByCountry_phLength":"5 to 12","countryCode":86,"InterNationalPrefix":0,"NationalPrefix":0,"flag":"vendor/countrycode/flags/china.png"},
+    {"country":"United States","phoneNumberMaxLength":10,"phoneNumberMinLength":10,"phoneNumberLengthByCountry_phLength":10,"countryCode":1,"InterNationalPrefix":11,"NationalPrefix":1,"flag":"vendor/countrycode/flags/united-states.png"},
+    {"country":"Indonesia","phoneNumberMaxLength":10,"phoneNumberMinLength":5,"phoneNumberLengthByCountry_phLength":"5 to 10","countryCode":62,"InterNationalPrefix":1.008,"NationalPrefix":0,"flag":"vendor/countrycode/flags/indonesia.png"},
+    {"country":"Pakistan","phoneNumberMaxLength":11,"phoneNumberMinLength":8,"phoneNumberLengthByCountry_phLength":"8 to 11","countryCode":92,"InterNationalPrefix":0,"NationalPrefix":0,"flag":"vendor/countrycode/flags/pakistan.png"},
+    {"country":"Nigeria","phoneNumberMaxLength":10,"phoneNumberMinLength":7,"phoneNumberLengthByCountry_phLength":"7 to 10","countryCode":234,"InterNationalPrefix":9,"NationalPrefix":0,"flag":"vendor/countrycode/flags/nigeria.png"},
+    {"country":"Brazil","phoneNumberMaxLength":10,"phoneNumberMinLength":10,"phoneNumberLengthByCountry_phLength":10,"countryCode":55,"InterNationalPrefix":0,"NationalPrefix":0,"flag":"vendor/countrycode/flags/brazil.png"},
+    {"country":"Bangladesh","phoneNumberMaxLength":10,"phoneNumberMinLength":6,"phoneNumberLengthByCountry_phLength":"6 to 10","countryCode":880,"InterNationalPrefix":0,"NationalPrefix":0,"flag":"vendor/countrycode/flags/bangladesh.png"},
+    {"country":"Russia","phoneNumberMaxLength":10,"phoneNumberMinLength":10,"phoneNumberLengthByCountry_phLength":10,"countryCode":7,"InterNationalPrefix":810,"NationalPrefix":8,"flag":"vendor/countrycode/flags/russia.png"}
+]

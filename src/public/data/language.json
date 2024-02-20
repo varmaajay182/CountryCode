@@ -1,0 +1,94 @@
+[
+    {
+        "country": "India",
+        "languages": [
+            "English",
+            "Hindi",
+            "Gujarati",
+            "Bengali",
+            "Urdu"
+        ]
+    },
+    {
+        "country": "China",
+        "languages": [
+            "English",
+            "Chinese"
+        ]
+    },
+    {
+        "country": "United States",
+        "languages": [
+            "English",
+            "Chinese"
+        ]
+    },
+    {
+        "country": "Indonesia",
+        "languages": [
+            "English",
+            "Bahasa",
+            "Bali",
+            "Banja",
+            "Batakki",
+            "Bugi",
+            "Javanese",
+            "Madura",
+            "Malay",
+            "Minangkabau",
+            "Sunda"
+        ]
+    },
+    {
+        "country": "Pakistan",
+        "languages": [
+            "English",
+           "Hindi",
+            "Urdu"
+        ]
+    },
+    {
+        "country": "Nigeria",
+        "languages": [
+            "English",
+            "Bura",
+            "Edo",
+            "Ful",
+            "Hausa",
+            "Ibibio",
+            "Ibo",
+            "Ijo",
+            "Yoruba",
+            "Kanuri",
+            "Tiv"
+        ]
+    },
+    {
+        "country": "Brazil",
+        "languages": [
+            "English",
+            "German",
+            "Hindi",
+            "Italian",
+            "Japanese",
+            "Portuguese"
+        ]
+    },
+    {
+        "country": "Bangladesh",
+        "languages": [
+            "English",
+            "Bengali",
+            "Hindi"
+        ]
+    },
+    {
+        "country": "Russia",
+        "languages": [
+            "English",
+           
+            "Russian"
+            
+        ]
+    }
+]
