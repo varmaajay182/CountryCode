@@ -3,6 +3,7 @@
     "description": "A composer package for get a code from country",
     "type": "library",
     "license": "MIT",
+    "minimum-stability": "stable", 
     "autoload": {
         "psr-4": {
             "Countrycodevendor\\Countrycode\\": "src/"
