@@ -20,7 +20,7 @@
 <body>
 
     <div class="container  mt-3">
-        <h1 class="text-center">Country Code And Number Validation</h1>
+        <h1 class="text-center">Country Code And Number Validation test</h1>
         <div id="messageContainer"></div>
         <form action="" id="myForm">
             {{-- @CSRF --}}
