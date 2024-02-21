@@ -25,7 +25,7 @@ class countryCodeServiceProvider extends ServiceProvider
         ], 'countrycode-lang');
 
         $this->publishes([
-            __DIR__ . '/views' => resource_path('views/countrycode'),
+            __DIR__ . '/views' => resource_path('views/vender/countrycode'),
         ], 'countrycode-views');
 
     }
