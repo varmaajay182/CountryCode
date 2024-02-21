@@ -17,7 +17,7 @@ class countryCodeServiceProvider extends ServiceProvider
             __DIR__ . '/public' => public_path('vendor/countrycode'),
             __DIR__ . '/public/data' => public_path('vendor/countrycode/data'),
             __DIR__ . '/public/flags' => public_path('vendor/countrycode/flags'),
-            __DIR__ . '/public/data' => public_path('vendor/countrycode/data'),
+
         ], 'public');
 
         $this->publishes([
